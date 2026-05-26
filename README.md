@@ -130,7 +130,7 @@ One of few DevOps engineers in India with hands-on **NVIDIA DGX, vGPU & MIG expe
 ---
 
 <p align="center">
-  <img src="https://github.com/joinmeabhigaikwad/joinmeabhigaikwad/blob/main/grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/joinmeabhigaikwad/joinmeabhigaikwad/output/grid-snake.svg" alt="snake animation" />
 </p>
 
 <p align="center">
